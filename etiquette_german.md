@@ -5,9 +5,9 @@ Inhalte zu einem bestimmten Thema zu vermitteln. Allerdings werden Audio- und Vi
 **alle** übermittelt. Jeder Teilnehmer hat damit die selben Rechte wie der Moderator und kann
 sich interaktive über verschiedene Kanäle (Audio, Chats, *Reactions*) in den Verlauf des Tutorials einbringen.
 
-Die Erfahrung hat gezeigt, dass eine Online-Meetings durch eine Vielzahl an Einflussgrößen
-massiv gestört weden können. Daher sind alle Teilnehmenden aufgefordert sich an einer
-Etikette zu orientieren und somit ein positives Erlebnis für alle zu gewährleisten.
+Die Erfahrung hat gezeigt, dass eine Online-Meetings durch eine Vielzahl von Einflussgrößen
+massiv gestört weden kann. Daher sind alle Teilnehmenden aufgefordert, sich an der folgenden
+Etikette zu orientieren, um dadurch ein positives Erlebnis für alle zu gewährleisten.
 
 ## Etikette für das COMSAR Tutorial
 
@@ -18,12 +18,12 @@ bis man seitens der Moderation zum Reden aufgefordert wird.
 
 ### 2. Notieren Sie sich ihre Fragen.
 Das COMSAR-Tutorial zeichnet sich organisatorisch durch eine Call-Respons-Struktur aus. Auf 
-kurze Inhaltsblöcke (Call) folgt stets eine Frageblock (Response), in dem die Teilnehmer 
-Fragen stellen zum vorangegangenen Inhalt stellen können. Schreiben Sie sich daher Ihre 
+kurze Inhaltsblöcke (Call) folgt stets ein Frageblock (Response), in dem die Teilnehmer 
+Fragen zum vorangegangenen Inhalt stellen können. Schreiben Sie sich daher Ihre 
 Fragen auf und stellen Sie sie im nächsten Frageblock.
 
 ### 3. Signalisieren Sie, dass es Fragen gibt.
-Um das gleichzeitige Reden mehrerer Personen in einem Frageblock zu vermeiden, melden Sie
+Um das gleichzeitige Reden mehrerer Personen innerhalb eines Frageblocks zu vermeiden, melden Sie
 bitte Ihre Frage an, indem Sie das Wort "Frage" in den privaten Chatkanal zwischen Ihnen
 und dem/der Moderatorin schreiben. Sie werden dann nacheinander aufgerufen werden.
 
