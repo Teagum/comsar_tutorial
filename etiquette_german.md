@@ -1,12 +1,14 @@
 # COMSAR Tutorial-Etikette
-Bei einem Online-Tutorial handelt es sich um ein Treffen mehrere Teilnehmer in einem virtuellen Raum.
-Typischerweise gibt es unter ihnen einen Moderator, dessen Aufgabe es ist, den übrigen Teilnehmern
-Inhalte zu einem bestimmten Thema zu vermitteln. Allerdings werden Audio- und Videodaten von alle zu
-**alle** übermittelt. Jeder Teilnehmer hat damit die selben Rechte wie der Moderator und kann
-sich interaktiv über verschiedene Kanäle (Audio, Chats, *Reactions*) in den Verlauf des Tutorials einbringen.
+Bei einem Online-Tutorial handelt es sich um ein Treffen mehrere Teilnehmerinnen in 
+einem virtuellen Raum. Typischerweise übernimmt eine Person die Moderation. Ihre
+Aufgabe es ist, den übrigen Teilnehmern Inhalte zu einem bestimmten Thema zu
+vermitteln und das Tutorial organisatorisch zu leiten. Allerdings werden Audio-
+und Videodaten von alle zu **alle** übermittelt. Jeder Teilnehmer hat damit dieselben
+Rechte wie der Moderator und kann sich interaktiv über verschiedene Kanäle (Audio, Chats,
+*Reactions*) in den Verlauf des Tutorials einbringen.
 
-Die Erfahrung hat gezeigt, dass eine Online-Meeting durch eine Vielzahl von Einflussgrößen
-massiv gestört weden kann. Daher sind alle Teilnehmenden aufgefordert, sich an der folgenden
+Die Erfahrung hat gezeigt, dass Online-Meetings durch eine Vielzahl von Einflussgrößen
+massiv gestört weden können. Daher sind alle Teilnehmenden aufgefordert, sich an der folgenden
 Etikette zu orientieren, um dadurch ein positives Erlebnis für alle zu gewährleisten.
 
 ## Etikette für das COMSAR Tutorial
