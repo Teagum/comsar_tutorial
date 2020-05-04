@@ -1,4 +1,4 @@
-# COMSAR Tuorial-Etikette
+# COMSAR Tutorial-Etikette
 Bei einem Online-Tutorial handelt es sich um ein Treffen mehrer Teilnehmer in einem virtuellen Raum.
 Typischerweise gibt es unter ihnen einen Moderator, dessen Aufgabe es ist, den übrigen Teilnehmern
 Inhalte zu einem bestimmten Thema zu vermitteln. Allerdings werden Audio- und Videodaten von alle zu
