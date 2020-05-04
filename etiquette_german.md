@@ -23,7 +23,7 @@ und richtig eingestellt sind.
 
 ### 3. Zu jeder Zeit redet nur eine Person.
 Wenn jemand redet, lassen Sie sie/ihn bitte ausreden und unterbrechen Sie nicht.
-Eine einfache Möglichkeit, dies sicherzustellen ist, sich selbst solange stumm zu schalten, 
+Eine einfache Möglichkeit, dies sicherzustellen, ist sich selbst so lange stummzuschalten,
 bis man seitens der Moderation zum Reden aufgefordert wird.
 
 ### 4. Notieren Sie sich ihre Fragen.
