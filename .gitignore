@@ -1,3 +1,6 @@
+*.DS_STORE
+examples/data/my_project.sfm
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
